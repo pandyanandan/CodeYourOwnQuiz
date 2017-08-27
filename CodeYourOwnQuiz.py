@@ -4,7 +4,7 @@ easyQuestion = ["In HTML we have","___1___", "types of heading tags for writing 
                 "HTML stands for","___3___","?",
                 "___4___"," tag is used to create links."]
 
-easyAnswer = ["six" , "<b> </b>", "Hyper Text Markup Language", "<a>"]
+easyAnswer = ["6" , "<b> </b>", "Hyper Text Markup Language", "<a>"]
 
 # Medium Quiz details.
 medQueestion = ["We use","___1___", "keyword to define function?",
